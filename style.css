@@ -37,6 +37,14 @@ a{
 	vertical-align: middle;*/
 	}
 
+#content{
+	text-align: center;
+	border-bottom: 1px gray solid;
+	padding: 0px;
+	margin: 0px;
+	height: 30px;
+}
+
 #grid{
 	/*display: grid;
 	vertical-align: bottom;
